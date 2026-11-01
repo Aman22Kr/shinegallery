@@ -1,0 +1,6 @@
+{
+  "name": "shinegallery",
+  "description": "Shine Gallery — Premier Indian Modern & Contemporary Fine Art Gallery featuring original paintings, master sculptures, serigraphs, and bespoke art advisory services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
